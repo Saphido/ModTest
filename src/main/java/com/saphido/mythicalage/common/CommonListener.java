@@ -32,21 +32,6 @@ public class CommonListener {
 					.add(Attributes.MOVEMENT_SPEED, 0.26f)
 					.build());
 //Others
-			event.put(InitEntity.OVERBOARD_ENTITY.get(),
-					Mob.createMobAttributes()
-					.add(Attributes.MAX_HEALTH, 1.0D)
-					.build());
-			
-			event.put(InitEntity.EXAMPLE_ENTITY.get(),
-					Mob.createMobAttributes()
-					.add(Attributes.MAX_HEALTH, 1.0D)
-					.build());
-			
-			event.put(InitEntity.LAYERENTITY.get(),
-					Mob.createMobAttributes()
-					.add(Attributes.MAX_HEALTH, 1.0D)
-					.add(Attributes.MOVEMENT_SPEED, 0.25f)
-					.build());
 			
 		}
 
