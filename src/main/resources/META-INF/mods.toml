@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="MIT"
+[[mods]]
+modId="mythicalage"
+version="${file.jarVersion}"
+displayName="Mythical Age "
+logoFile="examplemod.png"
+credits="A mythical dimension by Saphido"
+authors="Saphido"
+description='''
+Immerse yourself in a world filled with monsters from various mythology.
+'''
+
+[[dependencies.mythicalage]] 
+    modId="forge"
+    mandatory=true
+    versionRange="[39,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.mythicalage]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.1,1.19)"
+    ordering="NONE"
+    side="BOTH"

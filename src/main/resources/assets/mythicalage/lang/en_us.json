@@ -1,0 +1,15 @@
+{
+  "itemGroup.mythical_age": "Mythical Age",
+//Items
+
+  "item.mythicalage.potato_head": "Potato Armor Helmet",
+  "item.mythicalage.potato_chest": "Potato Armor Chestplate",
+  "item.mythicalage.potato_leggings": "Potato Armor Leggings",
+  "item.mythicalage.potato_boots": "Potato Armor Boots",
+  "item.mythicalage.jacktheboxitem": "Jack In The Box",
+  "item.mythicalage.pistolet": "Pistol",
+  "item.mythicalage.fur": "Fur",
+  //Blocks
+  "block.mythicalage.botariamblock": "Botarium",
+  "block.mythicalage.fertilizeblock": "Fertilizer"
+}

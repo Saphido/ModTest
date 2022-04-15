@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "mythicalage:items/weapons/frost_iron_tessen"
+	}
+}

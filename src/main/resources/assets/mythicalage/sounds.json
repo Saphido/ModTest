@@ -1,0 +1,11 @@
+{
+  "jack_music": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "mythicalage:jack_music",
+        "stream": true
+      }
+    ]
+  }
+}

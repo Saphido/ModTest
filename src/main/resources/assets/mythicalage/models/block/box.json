@@ -1,0 +1,7 @@
+{
+  "parent": "mythicalage:block/default_box",
+  "textures": {
+    "1": "mythicalage:block/botariam_side",
+    "particle": "mythicalage:block/botariam_side"
+  }
+}
