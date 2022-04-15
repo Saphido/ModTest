@@ -2,6 +2,6 @@
 	"parent": "item/generated",
 	"textures": 
 	{
-		"layer0": "mythicalage:item/drops/fur"
+		"layer0": "mythicalage:item/fur"
 	}
 }
