@@ -31,6 +31,20 @@ public class CommonListener {
 					.add(Attributes.ATTACK_DAMAGE, 5.0D)
 					.add(Attributes.MOVEMENT_SPEED, 0.26f)
 					.build());
+			
+			event.put(InitEntity.KAPPA_ENTITY.get(),
+					Mob.createMobAttributes()
+					.add(Attributes.MAX_HEALTH, 1.0D)
+					.add(Attributes.ATTACK_DAMAGE, 5.0D)
+					.add(Attributes.MOVEMENT_SPEED, 0.26f)
+					.build());
+			
+			event.put(InitEntity.ONI_ENTITY.get(),
+					Mob.createMobAttributes()
+					.add(Attributes.MAX_HEALTH, 1.0D)
+					.add(Attributes.ATTACK_DAMAGE, 5.0D)
+					.add(Attributes.MOVEMENT_SPEED, 0.26f)
+					.build());
 //Others
 			
 		}

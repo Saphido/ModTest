@@ -9,6 +9,22 @@
   "item.mythicalage.jacktheboxitem": "Jack In The Box",
   "item.mythicalage.pistolet": "Pistol",
   "item.mythicalage.fur": "Fur",
+  
+ //RELICS & FRAGMENTS
+  "item.mythicalage.tatsu_relic": "Tatsu Relic",
+  "item.mythicalage.tatsu_fragment_1": "Tatsu Fragment #1",
+  "item.mythicalage.tatsu_fragment_2": "Tatsu Fragment #2",
+  "item.mythicalage.tatsu_fragment_3": "Tatsu Fragment #3",
+  "item.mythicalage.tatsu_fragment_4": "Tatsu Fragment #4",
+  "item.mythicalage.tatsu_fragment_5": "Tatsu Fragment #5",
+  "item.mythicalage.tatsu_fragment_6": "Tatsu Fragment #6",  
+  //Spawn Eggs
+  
+  "item.mythicalage.tengu_entity_spawn_egg": "Tengu Spawn Egg",
+  "item.mythicalage.yuki_onna_entity_spawn_egg": "Yuki-Onna Spawn Egg",
+  "item.mythicalage.kappa_entity_spawn_egg": "Kappa Spawn Egg",
+    "item.mythicalage.oni_entity_spawn_egg": "Oni Spawn Egg",
+  
   //Blocks
   "block.mythicalage.botariamblock": "Botarium",
   "block.mythicalage.fertilizeblock": "Fertilizer"

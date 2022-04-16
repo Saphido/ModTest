@@ -1,6 +1,8 @@
 package com.saphido.mythicalage.core.init;
 
 import com.saphido.mythicalage.MythicalAgeMod;
+import com.saphido.mythicalage.core.entity.oriental.monsters.KappaEntity;
+import com.saphido.mythicalage.core.entity.oriental.monsters.OniEntity;
 import com.saphido.mythicalage.core.entity.oriental.monsters.TenguEntity;
 import com.saphido.mythicalage.core.entity.oriental.monsters.YukiOnnaEntity;
 
@@ -20,6 +22,10 @@ public class InitEntity {
 			YukiOnnaEntity::new, YukiOnnaEntity.class, 0.8F, 1.9F);
 	public static final RegistryObject<EntityType<TenguEntity>> TENGU_ENTITY = buildEntity(
 			TenguEntity::new, TenguEntity.class, 0.8F, 1.9F);
+	public static final RegistryObject<EntityType<KappaEntity>> KAPPA_ENTITY = buildEntity(
+			KappaEntity::new, KappaEntity.class, 0.8F, 1.9F);
+	public static final RegistryObject<EntityType<OniEntity>> ONI_ENTITY = buildEntity(
+			OniEntity::new, OniEntity.class, 0.8F, 1.9F);
 	
 //Others
 

@@ -2,6 +2,8 @@ package com.saphido.mythicalage.client;
 
 
 import com.saphido.mythicalage.MythicalAgeMod;
+import com.saphido.mythicalage.client.renderer.entity.oriental.monster.KappaRenderer;
+import com.saphido.mythicalage.client.renderer.entity.oriental.monster.OniRenderer;
 import com.saphido.mythicalage.client.renderer.entity.oriental.monster.TenguRenderer;
 import com.saphido.mythicalage.client.renderer.entity.oriental.monster.YukiOnnaRenderer;
 import com.saphido.mythicalage.client.renderer.tile.BotariamTileRenderer;
@@ -33,6 +35,8 @@ public class ClientListener {
 			
 			event.registerEntityRenderer(InitEntity.YUKI_ONNA_ENTITY.get(), YukiOnnaRenderer::new);
 			event.registerEntityRenderer(InitEntity.TENGU_ENTITY.get(), TenguRenderer::new);
+			event.registerEntityRenderer(InitEntity.KAPPA_ENTITY.get(), KappaRenderer::new);
+			event.registerEntityRenderer(InitEntity.ONI_ENTITY.get(), OniRenderer::new);
 
 
 //Others

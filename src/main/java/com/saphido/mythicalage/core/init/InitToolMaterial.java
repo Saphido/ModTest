@@ -10,6 +10,6 @@ public final class InitToolMaterial {
 		
 	}
 
-	protected static final Tier FROST_IRON = new BaseToolMaterial(15.5f, 500, 5, 25f, 2500, 
+	protected static final Tier FROST_IRON = new BaseToolMaterial(6f, 500, 5, 0f, 2500, 
 			() -> Ingredient.of(InitItem.FUR.get()));
 }
